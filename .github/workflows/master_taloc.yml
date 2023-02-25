@@ -27,7 +27,7 @@ jobs:
           yarn build --if-present
           
         env:
-        CI: false
+        CI: "false"
           
 
       - name: Upload artifact for deployment job
