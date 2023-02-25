@@ -21,8 +21,8 @@ import BarChart from "../../components/BarChart";
 import StatBox from "../../components/StatBox";
 import ProgressCircle from "../../components/ProgressCircle";
 
-import ConnectWallet from '/Applications/GitHub/DAO2/my-app3/src/components/ConnectWallet.js';
-import WalletInfo from '/Applications/GitHub/DAO2/my-app3/src/components/WalletInfo.js';
+import ConnectWallet from '/Applications/GitHub/my-app3/src/components/ConnectWallet.js';
+import WalletInfo from '/Applications/GitHub/my-app3/src/components/WalletInfo.js';
 
 
 const Dashboard = () => {
