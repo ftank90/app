@@ -26,6 +26,9 @@ jobs:
           yarn install
           yarn build --if-present
           
+        env:
+        CI: false
+          
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
