@@ -21,7 +21,7 @@ import { Web3ReactProvider } from '@web3-react/core';
 import { Web3Provider } from '@ethersproject/providers';
 
 
-import '/Applications/GitHub/DAO2/my-app3/src/app.css';
+import '/Applications/GitHub/my-app3/src/app.css';
 
 
 
